@@ -87,19 +87,7 @@ Um aplicativo de bingo moderno e responsivo para sorteio de números (1 a 90). *
 ## 🌐 Deploy (Hospedagem Gratuita)
 
 Você pode fazer deploy em:
-- **GitHub Pages** - Grátis, simples
-- **Netlify** - Grátis, com suporte PWA
-- **Vercel** - Grátis, otimizado para PWA
-- **Firebase Hosting** - Grátis com Google
-- **Qualquer servidor web estático**
-
-### Exemplo com GitHub Pages:
-1. Crie um repositório no GitHub
-2. Faça upload dos arquivos
-3. Vá em Settings → Pages
-4. Selecione "Deploy from a branch"
-5. Escolha a branch e salve
-6. Seu app estará em: `https://seu-usuario.github.io/bingo`
+- **Netlify** - [Grátis, com suporte PWA](https://stalwart-treacle-dba7cf.netlify.app)
 
 ## 🎨 Design
 
