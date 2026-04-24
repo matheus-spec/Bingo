@@ -87,7 +87,7 @@ Um aplicativo de bingo moderno e responsivo para sorteio de números (1 a 90). *
 ## 🌐 Deploy (Hospedagem Gratuita)
 
 Você pode fazer deploy em:
-- **Netlify** - [Grátis, com suporte PWA](https://stalwart-treacle-dba7cf.netlify.app)
+- **Netlify** - [Jogar / Instalar](https://stalwart-treacle-dba7cf.netlify.app)
 
 ## 🎨 Design
 
